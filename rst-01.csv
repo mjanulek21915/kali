@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+D8:9D:67:4D:EC:30, 2020-08-22 22:55:01, 2020-08-22 22:55:26, 11, 195, OPN, ,   , -75,      238,     2022, 172. 26.186. 19,  10, PASSIFLORA, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+50:3E:AA:E3:3A:55, 2020-08-22 22:55:01, 2020-08-22 22:55:26, -31,     2110, D8:9D:67:4D:EC:30,
+

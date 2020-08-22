@@ -94,13 +94,13 @@ round ()
 }
 
 echo "check kill"
-sudo airmon-ng check kill
+# sudo airmon-ng check kill
 echo "check kill ok"
 echo "start"
-sudo airmon-ng start $interface
+# sudo airmon-ng start $interface
 echo "start ok"
 echo "airodump"
-sudo airodump-ng -d $ap -c $channel -w rst "${interface}mon" &
+# sudo airodump-ng -d $ap -c $channel -w rst "${interface}mon" &
 echo "airodump ok"
 
 # address_count=0
